@@ -49,6 +49,18 @@ Real-time collaborative music platform using WebSockets
 
 ---
 
+### 🔹 Class Management System
+Web-based platform for managing student academic activities including attendance, grading, and fee tracking  
+
+→ Reduced attendance recording time by ~60–70%  
+→ Improved data accuracy by minimizing manual entry errors  
+→ Enabled instant data retrieval, reducing lookup time from minutes to seconds  
+→ Designed scalable MongoDB architecture for 100–200+ students with future horizontal scaling  
+
+🔗 https://github.com/asithaisuru/project_oasis
+
+---
+
 ### 🔹 Inventory Management System
 Full-stack system for stock tracking and billing  
 
