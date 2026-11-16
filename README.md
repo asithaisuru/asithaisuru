@@ -1,72 +1,133 @@
-<!--
-**asithaisuru/asithaisuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-banner.png">
+  <img src="./assets/profile-banner.gif" alt="Asitha Isuru — a little curiosity, a lot of building. Full-stack development and computer vision, from Sri Lanka." width="1200">
+</picture>
 
-Here are some ideas to get you started:
+<h1 align="center">Hey, I'm Asitha 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>Software Engineering Intern · Full-Stack Developer · Computer Vision Enthusiast</strong>
+</p>
 
-# Hi, I'm Asitha 👋
+<p align="center">
+  I build tools that help people get things done.<br>
+  Sometimes that means a business app. Sometimes it means teaching a computer to see.
+</p>
 
-🚀 Software Engineering Intern | MERN Stack Developer | Computer Vision Enthusiast
+<p align="center">
+  <a href="https://asithaisuru.vercel.app/"><img src="https://img.shields.io/badge/Explore_my_portfolio-203C55?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore my portfolio"></a>
+  <a href="https://www.linkedin.com/in/asithaisuru"><img src="https://img.shields.io/badge/LinkedIn-327C75?style=for-the-badge" alt="Connect on LinkedIn"></a>
+  <a href="mailto:asithafree1@gmail.com"><img src="https://img.shields.io/badge/Say_hello-203C55?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Asitha"></a>
+  <a href="https://asithaisuru.vercel.app/CV%20-%20Asitha%20Isuru%20-%20Software%20Engineer.pdf"><img src="https://img.shields.io/badge/Read_my_CV-327C75?style=for-the-badge" alt="Read my CV (PDF)"></a>
+</p>
 
-I build real-world systems that solve practical problems — from full-stack applications to AI-driven optimization systems.
+<p align="center">
+  <a href="#a-little-about-me">About me</a> &nbsp;·&nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#my-toolbox">My toolbox</a> &nbsp;·&nbsp;
+  <a href="#lets-build-something-useful">Let's connect</a>
+</p>
+
+## A little about me
+
+I'm a developer from **Gampaha, Sri Lanka**, interested in the space where useful software meets curious ideas. I enjoy connecting the whole system: the interface people use, the services behind it, and the data that makes it work.
+
+- 🧱 **Learning by building** at KeenRabbits (Pvt) Ltd through software development industrial training, working on full-stack business applications and Laravel workflows.
+- 🎓 **Studying Industrial Information Technology** at Uva Wellassa University of Sri Lanka — B.Sc. (Hons).
+- 🔬 **Exploring computer vision and 3D reconstruction**, alongside web applications, APIs, and real-time experiences.
+- 🤝 **Happy to talk code, swap ideas, or collaborate** on a practical problem.
+
+## Selected work
+
+### My portfolio, with a little extra personality
+
+<a href="https://asithaisuru.vercel.app/">
+  <img src="./assets/portfolio-preview.png" alt="My interactive portfolio: a cream and teal interface with a brick-style 3D avatar, a personal story, and a project explorer." width="1200">
+</a>
+
+A walk through my story, built with **Next.js, TypeScript, Tailwind CSS, React Three Fiber, and Three.js**. Meet my brick-style avatar, explore a galaxy of projects, and find the person behind the code.
+
+**[Take the tour ↗](https://asithaisuru.vercel.app/)** &nbsp;·&nbsp; [Explore the source](https://github.com/asithaisuru/portfolio)
+
+### From the workbench
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💎 Quartz Gemstone Optimizer</h3>
+      <p>From gemstone footage to a 3D model. An end-to-end workflow for AI background removal, photogrammetry, and interactive model inspection.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>COLMAP</code></p>
+      <p><a href="https://github.com/asithaisuru/quartz-optimizer"><strong>Explore the project ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎵 Waveio LAN</h3>
+      <p>One room, one shared soundtrack. Join from your own device, request songs, and choose which connected device plays the room's music.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Socket.IO</code> <code>SQLite</code></p>
+      <p><a href="https://github.com/asithaisuru/lan-play"><strong>Explore the project ↗</strong></a> · <a href="https://lan-play.vercel.app/">Visit the site</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Project Oasis</h3>
+      <p>Less paperwork, more time for teaching. A class administration dashboard for QR attendance, grades, payments, and email updates.</p>
+      <p><code>React</code> <code>Express</code> <code>MongoDB</code> <code>REST APIs</code></p>
+      <p><a href="https://github.com/asithaisuru/project_oasis"><strong>Explore the project ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 Inventory Management System</h3>
+      <p>Everyday stock and cashier tasks in one place: manage products, generate bills, and look up past transactions.</p>
+      <p><code>Java</code> <code>JSP</code> <code>MySQL</code> <code>Tomcat</code></p>
+      <p><a href="https://github.com/asithaisuru/RAD-InventoryManagementSystem"><strong>Explore the project ↗</strong></a></p>
+    </td>
+  </tr>
+</table>
+
+[Browse the rest of my repositories →](https://github.com/asithaisuru?tab=repositories)
+
+## My toolbox
+
+Different tools, same goal: make something useful.
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-203C55?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-203C55?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-203C55?style=flat-square&logo=python&logoColor=F6C76F)
+![Java](https://img.shields.io/badge/Java-203C55?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-203C55?style=flat-square&logo=php&logoColor=white)
+
+**Web & backend**
+
+![React](https://img.shields.io/badge/React-203C55?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-203C55?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-203C55?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-203C55?style=flat-square&logo=nodedotjs&logoColor=A3D9A5)
+![Express](https://img.shields.io/badge/Express-203C55?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-203C55?style=flat-square&logo=laravel&logoColor=FF9184)
+
+**Data & computer vision**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-203C55?style=flat-square&logo=mongodb&logoColor=A3D9A5)
+![MySQL](https://img.shields.io/badge/MySQL-203C55?style=flat-square&logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-203C55?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-203C55?style=flat-square&logo=pytorch&logoColor=FF9184)
+![Three.js](https://img.shields.io/badge/Three.js-203C55?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Tools & workflow**
+
+![Git](https://img.shields.io/badge/Git-203C55?style=flat-square&logo=git&logoColor=FF9184)
+![Docker](https://img.shields.io/badge/Docker-203C55?style=flat-square&logo=docker&logoColor=61DAFB)
+![Linux](https://img.shields.io/badge/Linux-203C55?style=flat-square&logo=linux&logoColor=F6C76F)
+![Postman](https://img.shields.io/badge/Postman-203C55?style=flat-square&logo=postman&logoColor=FF9184)
+
+## Let's build something useful
+
+Have an idea, a project, or a question about my work? I'd love to hear from you.
+
+**[Send me an email](mailto:asithafree1@gmail.com)** &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/asithaisuru) &nbsp;·&nbsp; [Visit my portfolio](https://asithaisuru.vercel.app/)
 
 ---
 
-## 🔧 Tech Stack
-- Languages: Java, JavaScript, PHP
-- Frontend: React.js, HTML, CSS, Bootstrap
-- Backend: Node.js, Express.js
-- Databases: MongoDB, MySQL
-- Tools: Git, GitHub, Postman
-- Other: REST APIs, WebSockets, OpenCV, CUDA (basic)
-
----
-
-## 🧠 Featured Projects
-
-### 🔹 Quartz Optimization System
-Computer vision system using 3D reconstruction + AI to optimize gemstone cutting  
-→ ~12% yield improvement  
-→ <3% volume error  
-
-🔗 https://github.com/asithaisuru/quartz-optimizer
-
----
-
-### 🔹 Lan-Play
-Real-time collaborative music platform using WebSockets  
-
-🔗 https://github.com/asithaisuru/lan-play
-
----
-
-### 🔹 Class Management System
-Web-based platform for managing student academic activities including attendance, grading, and fee tracking  
-
-→ Reduced attendance recording time by ~60–70%  
-→ Improved data accuracy by minimizing manual entry errors  
-→ Enabled instant data retrieval, reducing lookup time from minutes to seconds  
-→ Designed scalable MongoDB architecture for 100–200+ students with future horizontal scaling  
-
-🔗 https://github.com/asithaisuru/project_oasis
-
----
-
-### 🔹 Inventory Management System
-Full-stack system for stock tracking and billing  
-
-🔗 https://github.com/asithaisuru/RAD-InventoryManagementSystem
-
----
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/asithaisuru
+<p align="center">
+  <sub>Made with curiosity, caffeine, and a few bricks. Thanks for stopping by.</sub>
+</p>
