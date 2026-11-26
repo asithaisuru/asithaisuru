@@ -6,7 +6,7 @@
 <h1 align="center">Hey, I'm Asitha 👋</h1>
 
 <p align="center">
-  <strong>Software Engineering Intern · Full-Stack Developer · Computer Vision Enthusiast</strong>
+  <strong>Software Engineer · Full-Stack & Backend Developer</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://asithaisuru.vercel.app/"><img src="https://img.shields.io/badge/Explore_my_portfolio-203C55?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Explore my portfolio"></a>
   <a href="https://www.linkedin.com/in/asithaisuru"><img src="https://img.shields.io/badge/LinkedIn-327C75?style=for-the-badge" alt="Connect on LinkedIn"></a>
   <a href="mailto:asithafree1@gmail.com"><img src="https://img.shields.io/badge/Say_hello-203C55?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Asitha"></a>
-  <a href="https://asithaisuru.vercel.app/CV%20-%20Asitha%20Isuru%20-%20Software%20Engineer.pdf"><img src="https://img.shields.io/badge/Read_my_CV-327C75?style=for-the-badge" alt="Read my CV (PDF)"></a>
+  <a href="https://asithaisuru.vercel.app/Asitha_Isuru_Public_CV.pdf"><img src="https://img.shields.io/badge/Read_my_CV-327C75?style=for-the-badge" alt="Read my CV (PDF)"></a>
 </p>
 
 <p align="center">
@@ -32,8 +32,8 @@
 
 I'm a developer from **Gampaha, Sri Lanka**, interested in the space where useful software meets curious ideas. I enjoy connecting the whole system: the interface people use, the services behind it, and the data that makes it work.
 
-- 🧱 **Learning by building** at KeenRabbits (Pvt) Ltd through software development industrial training, working on full-stack business applications and Laravel workflows.
-- 🎓 **Studying Industrial Information Technology** at Uva Wellassa University of Sri Lanka — B.Sc. (Hons).
+- 🧱 **Learning by building** at KeenRabbits (Pvt) Ltd through software development industrial training, working on full-stack business applications.
+- 🎓 **B.Sc. (Hons) in Industrial Information Technology** at Uva Wellassa University of Sri Lanka — coursework completed; final results pending. Expected graduation: **June–July 2027**.
 - 🔬 **Exploring computer vision and 3D reconstruction**, alongside web applications, APIs, and real-time experiences.
 - 🤝 **Happy to talk code, swap ideas, or collaborate** on a practical problem.
 
@@ -49,20 +49,22 @@ A walk through my story, built with **Next.js, TypeScript, Tailwind CSS, React T
 
 **[Take the tour ↗](https://asithaisuru.vercel.app/)** &nbsp;·&nbsp; [Explore the source](https://github.com/asithaisuru/portfolio)
 
+A quick recruiter summary at `/recruiter` is prepared in the local review branch and awaits approved deployment.
+
 ### From the workbench
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>💎 Quartz Gemstone Optimizer</h3>
-      <p>From gemstone footage to a 3D model. An end-to-end workflow for AI background removal, photogrammetry, and interactive model inspection.</p>
-      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>COLMAP</code></p>
+      <p>From gemstone footage to a 3D model: background masking, COLMAP reconstruction, Open3D mesh processing and React inspection. The cutting optimizer is in a separate research branch; no benchmark gain is claimed for the public reconstruction branch.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>COLMAP</code> <code>OpenCV</code> <code>Open3D</code></p>
       <p><a href="https://github.com/asithaisuru/quartz-optimizer"><strong>Explore the project ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 Waveio LAN</h3>
-      <p>One room, one shared soundtrack. Join from your own device, request songs, and choose which connected device plays the room's music.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Socket.IO</code> <code>SQLite</code></p>
+      <h3>🎵 Waveio</h3>
+      <p>LAN/cloud music rooms with shared queues, host recovery and one assigned playback device. SQLite powers LAN persistence; cloud code uses PostgreSQL and a Redis Socket.IO adapter. Production reliability remains to be established; source improvements are under local review.</p>
+      <p><code>React</code> <code>Node.js</code> <code>Socket.IO</code> <code>SQLite</code> <code>PostgreSQL</code> <code>Redis</code></p>
       <p><a href="https://github.com/asithaisuru/lan-play"><strong>Explore the project ↗</strong></a> · <a href="https://lan-play.vercel.app/">Visit the site</a></p>
     </td>
   </tr>
@@ -74,10 +76,10 @@ A walk through my story, built with **Next.js, TypeScript, Tailwind CSS, React T
       <p><a href="https://github.com/asithaisuru/project_oasis"><strong>Explore the project ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 Inventory Management System</h3>
-      <p>Everyday stock and cashier tasks in one place: manage products, generate bills, and look up past transactions.</p>
-      <p><code>Java</code> <code>JSP</code> <code>MySQL</code> <code>Tomcat</code></p>
-      <p><a href="https://github.com/asithaisuru/RAD-InventoryManagementSystem"><strong>Explore the project ↗</strong></a></p>
+      <h3>🧱 Interactive Portfolio</h3>
+      <p>A 3D story and GitHub project explorer, with reduced-motion and non-WebGL paths. A direct recruiter summary is prepared in the local review branch and awaits deployment approval.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Three.js</code> <code>React Three Fiber</code></p>
+      <p><a href="https://github.com/asithaisuru/portfolio"><strong>Explore the source ↗</strong></a></p>
     </td>
   </tr>
 </table>
